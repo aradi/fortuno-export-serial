@@ -1,0 +1,12 @@
+name = "fortuno-serial"
+version = "0.1.0"
+license = "license"
+author = "Bálint Aradi"
+maintainer = "aradi@uni-bremen.de"
+copyright = "Copyright 2022, Bálint Aradi"
+[build]
+auto-executables = false
+auto-tests = true
+auto-examples = false
+[install]
+library = false
